@@ -1,1 +1,1 @@
-# Figures
+Small application Paint
