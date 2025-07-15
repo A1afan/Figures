@@ -1,0 +1,10 @@
+C:\ОП лаби\Figure\bin\Debug\Figure.exe.config
+C:\ОП лаби\Figure\bin\Debug\Figure.exe
+C:\ОП лаби\Figure\bin\Debug\Figure.pdb
+C:\ОП лаби\Figure\obj\Debug\Figure.csproj.AssemblyReference.cache
+C:\ОП лаби\Figure\obj\Debug\Figure.Form1.resources
+C:\ОП лаби\Figure\obj\Debug\Figure.Properties.Resources.resources
+C:\ОП лаби\Figure\obj\Debug\Figure.csproj.GenerateResource.cache
+C:\ОП лаби\Figure\obj\Debug\Figure.csproj.CoreCompileInputs.cache
+C:\ОП лаби\Figure\obj\Debug\Figure.exe
+C:\ОП лаби\Figure\obj\Debug\Figure.pdb
